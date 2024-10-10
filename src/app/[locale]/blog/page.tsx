@@ -19,7 +19,8 @@ export interface Post {
 
 async function fetchPosts(): Promise<Post[]> {
   try {
-    const response = await fetch("../../api/posts", {
+    const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "http://localhost:3000";
+    const response = await fetch(`${baseUrl}/api/posts`, {
       cache: "no-store",
     });
 

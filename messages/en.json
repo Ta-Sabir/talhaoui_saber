@@ -1,0 +1,60 @@
+{
+  "Header": {
+    "title": "Talhaoui Saber",
+    "blog": "Blog"
+  },
+  "Hero": {
+    "subTitle": "Explore my recent blog posts",
+    "here": "here",
+    "title1": "Welcome!",
+    "title2": "I'm Talhaoui Saber ,",
+    "title3": "a full-stack developer from Algeria ."
+  },
+  "Tools": {
+    "title": "My tools :"
+  },
+  "Contact": {
+    "title": "Are you planning a new project and need a programmer to implement it?",
+    "link1": "Contact Me",
+    "link2": "Download CV"
+  },
+  "footer": {
+    "title": "Get exclusive content",
+    "link": "Subscribe now!",
+    "copyRight": "© 2024 - Talhaoui Saber . All rights reserved ."
+  },
+  "Blog": {
+    "title": "My recent blog posts",
+    "readMore": "Read more",
+    "writed": "Writed by"
+  },
+  "BlogContent": {
+    "home": "Home",
+    "blog": "Blog",
+    "writed": "Writed by",
+    "saber": "Talhaoui Saber",
+    "in": "in",
+    "share": "Like it ? cost 0$ just share it :)",
+    "aboutTitle": "About Talhaoui Saber :",
+    "aboutContent": "A programmer and freelancer with one year of experience in front-end development. I have developed multiple previous projects where I worked on designing and developing user interfaces using the React framework. You can see my previous projects and the code that I have created."
+  },
+  "BlogPageAside": {
+    "tags": "Tags ",
+    "all": "All",
+    "coding": "Coding",
+    "design": "Design"
+  },
+  "Projects": {
+    "title": "Projects I built :",
+    "project1": "This e-commerce store specializes in digital and physical products, allowing users to browse and purchase from various categories. It offers a modern, user-friendly design for a smooth and secure shopping experience.",
+    "project1Date": "18 February 2024",
+    "project2": "A hospital informational website showcasing medical services, specialties, and appointment details, ensuring a comfortable healthcare experience.",
+    "project2Date": "18 February 2024",
+    "project3": "A website specializing in web design and custom template development, including WordPress themes, offering monthly or yearly payment options.",
+    "project3Date": "18 February 2024",
+    "project4": "talhaoui.me is my portfolio.",
+    "project4Date": "18 February 2024",
+    "project5": "A blog offering diverse articles on topics like technology, health, and education, aimed at enriching knowledge and providing valuable, engaging content for readers.",
+    "project5Date": "18 February 2024"
+  }
+}
